@@ -1,0 +1,4 @@
+name: my_r_env
+channels:
+ - conda-forge
+dependencies:
